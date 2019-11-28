@@ -1,0 +1,89 @@
+#wholesidenav {
+    visibility: hidden;
+}
+#sidenav-container {
+    position: absolute;
+    width: 259px;
+    height: 639px;
+    left: 101px;
+    top: 0px;
+    background-color: rgba(57, 57, 57, 1);
+    border: 0;
+    overflow: hidden;
+}
+
+.x-one {
+    width: 16px;
+    height: 2px;
+    position: absolute;
+    overflow: visible;
+    transform: translate(-308.636px, -51px) matrix(1, 0, 0, 1, 306.9999, 56.3639) rotate(135deg);
+    transform-origin: center;
+}
+
+.x-two {
+    width: 16px;
+    height: 2px;
+    position: absolute;
+    overflow: visible;
+    transform: translate(-308.636px, -51px) matrix(1, 0, 0, 1, 307, 56.364) rotate(45deg);
+    transform-origin: center;
+}
+
+#close-icon {
+    position: absolute;
+    width: 12.728px;
+    height: 12.728px;
+    left: 321.636px;
+    top: 40px;
+    overflow: visible;
+}
+
+#sidenav-prod-item {
+    position: absolute;
+    left: 176px;
+    top: 165px;
+    overflow: visible;
+    width: 80px;
+    white-space: nowrap;
+    line-height: 36px;
+    margin-top: -10.5px;
+    text-align: left;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(255, 255, 255, 1);
+}
+
+#sidenav-prod-item a {
+    color: rgba(255, 255, 255, 1) !important;
+    cursor: pointer;
+}
+
+#sidenav-contact-item {
+    position: absolute;
+    left: 176px;
+    top: 234px;
+    overflow: visible;
+    width: 74px;
+    white-space: nowrap;
+    line-height: 36px;
+    margin-top: -10.5px;
+    text-align: left;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(255, 255, 255, 1);
+}
+#sidenav-item-line {
+    position: absolute;
+    width: 51px;
+    height: 2px;
+    left: 101px;
+    top: 174px;
+    background-color: rgba(255,255,255,1);
+    border: 0;
+    overflow: hidden;
+}

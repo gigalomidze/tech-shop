@@ -1,0 +1,1160 @@
+a {
+    color: rgba(77, 77, 77, 1) !important;
+    cursor: pointer !important;
+    text-decoration: none !important;
+}
+@media only screen and (min-width: 1920px) {
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        border: none;
+    }
+    #Product_Page___1920 {
+        position: absolute;
+        background: #E5E5E5;
+        width: 1920px;
+        height: 1533px;
+        background-color: rgba(255, 255, 255, 1);
+        overflow: hidden;
+        --web-view-name: Product Page - 1920;
+        --web-view-id: Product_Page___1920;
+        --web-scale-on-resize: true;
+        --web-enable-deep-linking: true;
+    }
+    #Product_Page___992 {
+        display: none;
+    }
+    #Product_Page___360 {
+        display: none;
+    }
+    #footer-div {
+        position: absolute;
+        width: 1920px;
+        height: 330px;
+        left: 0px;
+        top: 1203px;
+        background-color: rgba(242, 242, 242, 1);
+        border: 0;
+        overflow: hidden;
+    }
+    #buy-btn-div {
+        opacity: 0.05;
+        position: absolute;
+        width: 180px;
+        height: 72px;
+        left: 1082px;
+        top: 710px;
+        overflow: visible;
+    }
+    #buy-btn {
+        position: absolute;
+        width: 180px;
+        height: 72px;
+        left: 0px;
+        top: 0px;
+        background-color: rgba(0, 0, 0, 1);
+        border-radius: 5px 5px 5px 5px;
+        border: 0;
+        overflow: hidden;
+    }
+    #header-subline {
+        position: absolute;
+        width: 51px;
+        height: 3px;
+        left: 1591px;
+        top: 86px;
+        background-color: rgba(77, 77, 77, 1);
+        border: 0;
+        overflow: hidden;
+    }
+    #header-logo {
+        position: absolute;
+        width: 150px;
+        height: 150px;
+        left: 59px;
+        top: 10px;
+        overflow: visible;
+    }
+    .Line_1 {
+        overflow: visible;
+        position: absolute;
+        width: 1520px;
+        height: 1px;
+        left: 200.5px;
+        top: 1444.5px;
+        transform: matrix(1, 0, 0, 1, 0, 0);
+    }
+    .instagram-icon {
+        overflow: visible;
+        position: absolute;
+        width: 28.724px;
+        height: 28.725px;
+        left: 1636.9px;
+        top: 1477.221px;
+        transform: matrix(1, 0, 0, 1, 0, 0);
+    }
+    .Instagram-internal-circle-icon {
+        overflow: visible;
+        position: absolute;
+        width: 13.49px;
+        height: 13.31px;
+        left: 1644.55px;
+        top: 1484.41px;
+        transform: matrix(1, 0, 0, 1, 0, 0);
+    }
+    .Instagram-internal-dot-icon {
+        overflow: visible;
+        position: absolute;
+        width: 2.84px;
+        height: 2.95px;
+        left: 1657.4px;
+        top: 1482.38px;
+        transform: matrix(1, 0, 0, 1, 0, 0);
+    }
+    .Fb-icon {
+        overflow: visible;
+        position: absolute;
+        width: 12.188px;
+        height: 23.23px;
+        left: 1590.95px;
+        top: 1480.16px;
+        transform: matrix(1, 0, 0, 1, 0, 0);
+    }
+    .Twiter-icon {
+        overflow: visible;
+        position: absolute;
+        width: 29.116px;
+        height: 23.409px;
+        left: 1691.87px;
+        top: 1480.16px;
+        transform: matrix(1, 0, 0, 1, 0, 0);
+    }
+    #footer-logo {
+        position: absolute;
+        width: 87px;
+        height: 87px;
+        left: 200px;
+        top: 1251px;
+        overflow: visible;
+    }
+    #footer-logo-img {
+        position: absolute;
+        width: 87px;
+        height: 87px;
+        left: 0px;
+        top: 0px;
+        overflow: visible;
+    }
+    #headphone-detail-image {
+        position: absolute;
+        width: 846px;
+        height: 846px;
+        left: 140px;
+        top: 169px;
+        overflow: visible;
+    }
+    #order-btn {
+        position: absolute;
+        left: 1144px;
+        top: 734px;
+        overflow: visible;
+        width: 57px;
+        white-space: nowrap;
+        line-height: 36px;
+        margin-top: -9px;
+        text-align: left;
+        font-family: Helvetica;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 18px;
+        color: rgba(77, 77, 77, 1);
+    }
+    #product-nav {
+        position: absolute;
+        left: 1607px;
+        top: 54px;
+        overflow: visible;
+        width: 93px;
+        white-space: nowrap;
+        line-height: 36px;
+        margin-top: -9px;
+        text-align: left;
+        font-family: Helvetica;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 18px;
+        color: rgba(77, 77, 77, 1);
+    }
+    #contact-nav {
+        position: absolute;
+        left: 1754px;
+        top: 54px;
+        overflow: visible;
+        width: 87px;
+        white-space: nowrap;
+        line-height: 36px;
+        margin-top: -9px;
+        text-align: left;
+        font-family: Helvetica;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 18px;
+        color: rgba(77, 77, 77, 1);
+    }
+    #propuct-detail-price {
+        position: absolute;
+        left: 1082px;
+        top: 410px;
+        overflow: visible;
+        width: 292px;
+        white-space: nowrap;
+        text-align: left;
+        font-family: Helvetica;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 60px;
+        color: rgba(77, 77, 77, 1);
+    }
+    #product-general-description {
+        position: absolute;
+        left: 1082px;
+        top: 282px;
+        overflow: hidden;
+        width: 699px;
+        height: 83px;
+        line-height: 44px;
+        margin-top: -6px;
+        text-align: left;
+        font-family: Helvetica;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 32px;
+        color: rgba(77, 77, 77, 1);
+    }
+    #product-description {
+        position: absolute;
+        left: 1082px;
+        top: 527px;
+        overflow: hidden;
+        width: 553px;
+        height: 112px;
+        line-height: 30px;
+        margin-top: -6px;
+        text-align: left;
+        font-family: Helvetica;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 18px;
+        color: rgba(77, 77, 77, 1);
+    }
+    #product-offer {
+        position: absolute;
+        left: 1082px;
+        top: 658px;
+        overflow: visible;
+        width: 288px;
+        white-space: nowrap;
+        line-height: 30px;
+        margin-top: -6px;
+        text-align: left;
+        font-family: Helvetica;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 18px;
+        color: rgba(77, 77, 77, 1);
+    }
+    #footer-description {
+        opacity: 0.497;
+        position: absolute;
+        left: 327px;
+        top: 1266px;
+        overflow: hidden;
+        width: 354px;
+        height: 128px;
+        line-height: 28px;
+        margin-top: -6px;
+        text-align: left;
+        font-family: Helvetica;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        color: rgba(77, 77, 77, 1);
+    }
+    #contact-us {
+        position: absolute;
+        left: 930px;
+        top: 1264px;
+        overflow: visible;
+        width: 150px;
+        white-space: nowrap;
+        line-height: 28px;
+        margin-top: -5.5px;
+        text-align: left;
+        font-family: Helvetica;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 17px;
+        color: rgba(77, 77, 77, 1);
+    }
+    #connect-us-bold {
+        position: absolute;
+        left: 1515px;
+        top: 1255px;
+        overflow: visible;
+        width: 154px;
+        white-space: nowrap;
+        line-height: 28px;
+        margin-top: -5.5px;
+        text-align: left;
+        font-family: Helvetica;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 17px;
+        color: rgba(77, 77, 77, 1);
+    }
+   #address-label {
+        position: absolute;
+        left: 1515px;
+        top: 1291px;
+        overflow: visible;
+        width: 206px;
+        white-space: nowrap;
+        line-height: 28px;
+        margin-top: -6.5px;
+        text-align: left;
+        font-family: Helvetica;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        color: rgba(77, 77, 77, 1);
+    }
+    #company-address {
+        position: absolute;
+        left: 1515px;
+        top: 1316px;
+        overflow: visible;
+        width: 154px;
+        white-space: nowrap;
+        line-height: 24px;
+        margin-top: -4.5px;
+        text-align: left;
+        font-family: Helvetica;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        color: rgba(77, 77, 77, 1);
+    }
+    #faq {
+        position: absolute;
+        left: 930px;
+        top: 1300px;
+        overflow: visible;
+        width: 236px;
+        white-space: nowrap;
+        line-height: 28px;
+        margin-top: -5.5px;
+        text-align: left;
+        font-family: Helvetica;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 17px;
+        color: rgba(77, 77, 77, 1);
+    }
+    #product-nav-footer {
+        position: absolute;
+        left: 930px;
+        top: 1334px;
+        overflow: visible;
+        width: 109px;
+        white-space: nowrap;
+        line-height: 28px;
+        margin-top: -5.5px;
+        text-align: left;
+        font-family: Helvetica;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 17px;
+        color: rgba(77, 77, 77, 1);
+    }
+    #register-footer-nav {
+        position: absolute;
+        left: 930px;
+        top: 1368px;
+        overflow: visible;
+        width: 113px;
+        white-space: nowrap;
+        line-height: 28px;
+        margin-top: -5.5px;
+        text-align: left;
+        font-family: Helvetica;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 17px;
+        color: rgba(77, 77, 77, 1);
+    }
+    .cart-icon {
+        overflow: visible;
+        position: absolute;
+        width: 30.737px;
+        height: 27.562px;
+        left: 1310px;
+        top: 732.258px;
+        transform: matrix(1, 0, 0, 1, 0, 0);
+    }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1920px) {
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        border: none;
+    }
+    #Product_Page___1920 {
+        display: none;
+    }
+    #Product_Page___360 {
+        display: none;
+    }
+    #Product_Page___992 {
+        position: absolute;
+        background: #E5E5E5;
+        width: 992px;
+        height: 774px;
+        background-color: rgba(255, 255, 255, 1);
+        overflow: hidden;
+        --web-view-name: Product Page - 992;
+        --web-view-id: Product_Page___992;
+        --web-scale-on-resize: true;
+        --web-enable-deep-linking: true;
+    }
+    #footer-div {
+        position: absolute;
+        width: 992px;
+        height: 187px;
+        left: 0px;
+        top: 587px;
+        background-color: rgba(242, 242, 242, 1);
+        border: 0;
+        overflow: hidden;
+    }
+    #header-subline {
+        position: absolute;
+        width: 26px;
+        height: 1px;
+        left: 796px;
+        top: 43px;
+        background-color: rgba(77, 77, 77, 1);
+        border: 0;
+        overflow: hidden;
+    }
+    #header-logo {
+        position: absolute;
+        width: 76px;
+        height: 76px;
+        left: 38px;
+        top: 0px;
+        overflow: visible;
+    }
+    .Line_1 {
+        overflow: visible;
+        position: absolute;
+        width: 792px;
+        height: 1px;
+        left: 100.5px;
+        top: 725.504px;
+        transform: matrix(1, 0, 0, 1, 0, 0);
+    }
+    #intagram-div {
+        position: absolute;
+        width: 17.367px;
+        height: 17.367px;
+        left: 841.758px;
+        top: 742.127px;
+        overflow: visible;
+    }
+    .instagram-icon {
+        overflow: visible;
+        position: absolute;
+        width: 17.367px;
+        height: 17.367px;
+        left: 0px;
+        top: 0px;
+        transform: matrix(1, 0, 0, 1, 0, 0);
+    }
+    .Instagram-internal-circle-icon {
+        overflow: visible;
+        position: absolute;
+        width: 8.156px;
+        height: 8.047px;
+        left: 4.625px;
+        top: 4.346px;
+        transform: matrix(1, 0, 0, 1, 0, 0);
+    }
+    .Instagram-internal-dot-icon {
+        overflow: visible;
+        position: absolute;
+        width: 1.717px;
+        height: 1.783px;
+        left: 12.394px;
+        top: 3.119px;
+        transform: matrix(1, 0, 0, 1, 0, 0);
+    }
+    .Fb-icon {
+        overflow: visible;
+        position: absolute;
+        width: 7.582px;
+        height: 14.242px;
+        left: 813.977px;
+        top: 743.904px;
+        transform: matrix(1, 0, 0, 1, 0, 0);
+    }
+    .Twiter-icon {
+        overflow: visible;
+        position: absolute;
+        width: 17.994px;
+        height: 14.47px;
+        left: 874.992px;
+        top: 743.904px;
+        transform: matrix(1, 0, 0, 1, 0, 0);
+    }
+    #footer-logo {
+        position: absolute;
+        width: 44px;
+        height: 44px;
+        left: 100px;
+        top: 611px;
+        overflow: visible;
+    }
+    #footer-logo-img {
+        position: absolute;
+        width: 44px;
+        height: 44px;
+        left: 0px;
+        top: 0px;
+        overflow: visible;
+    }
+    #headphone-detail-image {
+        position: absolute;
+        width: 362px;
+        height: 362px;
+        left: 52px;
+        top: 127px;
+        overflow: visible;
+    }
+    #product-nav {
+        position: absolute;
+        left: 805px;
+        top: 24px;
+        overflow: visible;
+        width: 63px;
+        white-space: nowrap;
+        line-height: 18px;
+        margin-top: -3px;
+        text-align: left;
+        font-family: Helvetica;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 12px;
+        color: rgba(77, 77, 77, 1);
+    }
+    #contact-header-nav{
+        position: absolute;
+        left: 899px;
+        top: 24px;
+        overflow: visible;
+        width: 58px;
+        white-space: nowrap;
+        line-height: 18px;
+        margin-top: -3px;
+        text-align: left;
+        font-family: Helvetica;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 12px;
+        color: rgba(77, 77, 77, 1);
+    }
+    #footer-description {
+        opacity: 0.497;
+        position: absolute;
+        left: 168px;
+        top: 611px;
+        overflow: hidden;
+        width: 234px;
+        height: 81px;
+        line-height: 20px;
+        margin-top: -4.5px;
+        text-align: left;
+        font-family: Helvetica;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 11px;
+        color: rgba(77, 77, 77, 1);
+    }
+    #contact-us {
+        position: absolute;
+        left: 481px;
+        top: 611px;
+        overflow: visible;
+        width: 106px;
+        white-space: nowrap;
+        line-height: 13px;
+        margin-top: -0.5px;
+        text-align: left;
+        font-family: Helvetica;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 12px;
+        color: rgba(77, 77, 77, 1);
+    }
+    #contact-us-bold {
+        position: absolute;
+        left: 742px;
+        top: 611px;
+        overflow: visible;
+        width: 118px;
+        white-space: nowrap;
+        text-align: left;
+        font-family: Helvetica;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 13px;
+        color: rgba(77, 77, 77, 1);
+    }
+   #address-label {
+        position: absolute;
+        left: 742px;
+        top: 632px;
+        overflow: visible;
+        width: 151px;
+        white-space: nowrap;
+        line-height: 13px;
+        margin-top: -1px;
+        text-align: left;
+        font-family: Helvetica;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 11px;
+        color: rgba(77, 77, 77, 1);
+    }
+    #company-address {
+        position: absolute;
+        left: 742px;
+        top: 655px;
+        overflow: visible;
+        width: 113px;
+        white-space: nowrap;
+        line-height: 15px;
+        margin-top: -2px;
+        text-align: left;
+        font-family: Helvetica;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 11px;
+        color: rgba(77, 77, 77, 1);
+    }
+    #faq {
+        position: absolute;
+        left: 481px;
+        top: 636px;
+        overflow: visible;
+        width: 167px;
+        white-space: nowrap;
+        line-height: 13px;
+        margin-top: -0.5px;
+        text-align: left;
+        font-family: Helvetica;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 12px;
+        color: rgba(77, 77, 77, 1);
+    }
+    #product-nav-footer {
+        position: absolute;
+        left: 481px;
+        top: 661px;
+        overflow: visible;
+        width: 78px;
+        white-space: nowrap;
+        line-height: 13px;
+        margin-top: -0.5px;
+        text-align: left;
+        font-family: Helvetica;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 12px;
+        color: rgba(77, 77, 77, 1);
+    }
+    #register-footer-nav {
+        position: absolute;
+        left: 481px;
+        top: 686px;
+        overflow: visible;
+        width: 80px;
+        white-space: nowrap;
+        line-height: 13px;
+        margin-top: -0.5px;
+        text-align: left;
+        font-family: Helvetica;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 12px;
+        color: rgba(77, 77, 77, 1);
+    }
+    #buy-btn-div {
+        opacity: 0.05;
+        position: absolute;
+        width: 148px;
+        height: 48px;
+        left: 444px;
+        top: 428px;
+        overflow: visible;
+    }
+    #buy-btn {
+        position: absolute;
+        width: 148px;
+        height: 48px;
+        left: 0px;
+        top: 0px;
+        background-color: rgba(0, 0, 0, 1);
+        border-radius: 5px 5px 5px 5px;
+        border: 0;
+        overflow: hidden;
+    }
+    #order-btn {
+        position: absolute;
+        left: 498px;
+        top: 444px;
+        overflow: visible;
+        width: 39px;
+        white-space: nowrap;
+        line-height: 28px;
+        margin-top: -8px;
+        text-align: center;
+        font-family: Helvetica;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 12px;
+        color: rgba(77, 77, 77, 1);
+    }
+    #propuct-detail-price {
+        position: absolute;
+        left: 444px;
+        top: 222px;
+        overflow: visible;
+        width: 186px;
+        white-space: nowrap;
+        text-align: left;
+        font-family: Helvetica;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 38px;
+        color: rgba(77, 77, 77, 1);
+    }
+    #product-description {
+        position: absolute;
+        left: 444px;
+        top: 294px;
+        overflow: hidden;
+        width: 455px;
+        height: 92px;
+        line-height: 24px;
+        margin-top: -4px;
+        text-align: left;
+        font-family: Helvetica;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        color: rgba(77, 77, 77, 1);
+    }
+    #product-offer {
+        position: absolute;
+        left: 444px;
+        top: 395px;
+        overflow: visible;
+        width: 208px;
+        white-space: nowrap;
+        line-height: 23px;
+        margin-top: -5px;
+        text-align: left;
+        font-family: Helvetica;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 13px;
+        color: rgba(77, 77, 77, 1);
+    }
+    .cart-icon {
+        overflow: visible;
+        position: absolute;
+        width: 25.279px;
+        height: 22.668px;
+        left: 624.001px;
+        top: 441px;
+        transform: matrix(1, 0, 0, 1, 0, 0);
+    }
+    #product-general-description {
+        position: absolute;
+        left: 444px;
+        top: 127px;
+        overflow: hidden;
+        width: 345px;
+        height: 68px;
+        line-height: 30px;
+        margin-top: -5px;
+        text-align: left;
+        font-family: Helvetica;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 20px;
+        color: rgba(77, 77, 77, 1);
+    }
+}
+
+@media only screen and (min-width: 360px) and (max-width: 992px) {
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        border: none;
+    }
+    #Product_Page___992 {
+        display: none;
+    }
+    #Product_Page___1920 {
+        display: none;
+    }
+    #Product_Page___360 {
+        position: absolute;
+        background: #E5E5E5;
+        width: 360px;
+        height: 937px;
+        background-color: rgba(255, 255, 255, 1);
+        overflow: hidden;
+        --web-view-name: Product Page - 360;
+        --web-view-id: Product_Page___360;
+        --web-scale-on-resize: true;
+        --web-enable-deep-linking: true;
+    }
+    #footer-div {
+        position: absolute;
+        width: 360px;
+        height: 289px;
+        left: 0px;
+        top: 648px;
+        background-color: rgba(242, 242, 242, 1);
+        border: 0;
+        overflow: hidden;
+    }
+    #header-logo {
+        position: absolute;
+        width: 95px;
+        height: 95px;
+        left: 12px;
+        top: 15px;
+        overflow: visible;
+    }
+    #menu-icon {
+        position: absolute;
+        width: 24px;
+        height: 12px;
+        left: 312px;
+        top: 48px;
+        overflow: visible;
+    }
+    #small-line {
+        position: absolute;
+        width: 16px;
+        height: 2px;
+        left: 8px;
+        top: 0px;
+        background-color: rgba(77, 77, 77, 1);
+        border: 0;
+        overflow: hidden;
+    }
+    #big-line {
+        position: absolute;
+        width: 24px;
+        height: 2px;
+        left: 0px;
+        top: 10px;
+        background-color: rgba(77, 77, 77, 1);
+        border: 0;
+        overflow: hidden;
+    }
+    #headphone-detail-image {
+        position: absolute;
+        width: 206px;
+        height: 206px;
+        left: 77px;
+        top: 105px;
+        overflow: visible;
+    }
+    #footer-log-desc-div {
+        position: absolute;
+        width: 324px;
+        height: 96px;
+        left: 12px;
+        top: 663px;
+        overflow: visible;
+    }
+    #footer-logo {
+        position: absolute;
+        width: 87px;
+        height: 87px;
+        left: 0px;
+        top: 0px;
+        overflow: visible;
+    }
+    #footer-logo-img {
+        position: absolute;
+        width: 87px;
+        height: 87px;
+        left: 0px;
+        top: 0px;
+        overflow: visible;
+    }
+    #footer-description {
+        opacity: 0.497;
+        position: absolute;
+        left: 99px;
+        top: 15px;
+        overflow: hidden;
+        width: 226px;
+        height: 81px;
+        line-height: 18px;
+        margin-top: -3.5px;
+        text-align: left;
+        font-family: Helvetica;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 11px;
+        color: rgba(77, 77, 77, 1);
+    }
+    #contact-us {
+        position: absolute;
+        left: 24px;
+        top: 804px;
+        overflow: visible;
+        width: 127px;
+        white-space: nowrap;
+        line-height: 28px;
+        margin-top: -7px;
+        text-align: left;
+        font-family: Helvetica;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 14px;
+        color: rgba(77, 77, 77, 1);
+    }
+   #address-label {
+        opacity: 0.7;
+        position: absolute;
+        left: 24px;
+        top: 827px;
+        overflow: visible;
+        width: 165px;
+        white-space: nowrap;
+        line-height: 28px;
+        margin-top: -8px;
+        text-align: left;
+        font-family: Helvetica;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 12px;
+        color: rgba(77, 77, 77, 1);
+    }
+    #company-address {
+        position: absolute;
+        left: 24px;
+        top: 851px;
+        overflow: visible;
+        width: 123px;
+        white-space: nowrap;
+        line-height: 20px;
+        margin-top: -4px;
+        text-align: left;
+        font-family: Helvetica;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 12px;
+        color: rgba(77, 77, 77, 1);
+    }
+    #instagram-icon-div {
+        position: absolute;
+        width: 21.235px;
+        height: 21.236px;
+        left: 289.268px;
+        top: 845px;
+        overflow: visible;
+    }
+    .instagram-icon {
+        overflow: visible;
+        position: absolute;
+        width: 21.235px;
+        height: 21.236px;
+        left: 0px;
+        top: 0px;
+        transform: matrix(1, 0, 0, 1, 0, 0);
+    }
+    .Instagram-internal-circle-icon {
+        overflow: visible;
+        position: absolute;
+        width: 9.973px;
+        height: 9.84px;
+        left: 5.656px;
+        top: 5.314px;
+        transform: matrix(1, 0, 0, 1, 0, 0);
+    }
+    .Instagram-internal-dot-icon {
+        overflow: visible;
+        position: absolute;
+        width: 2.1px;
+        height: 2.181px;
+        left: 15.155px;
+        top: 3.814px;
+        transform: matrix(1, 0, 0, 1, 0, 0);
+    }
+    #product-detial-div {
+        position: absolute;
+        width: 312px;
+        height: 272px;
+        left: 24px;
+        top: 341px;
+        overflow: visible;
+    }
+    #buy-btn-div {
+        opacity: 0.05;
+        position: absolute;
+        width: 120px;
+        height: 54px;
+        left: 72.58px;
+        top: 218px;
+        overflow: visible;
+    }
+    #buy-btn {
+        position: absolute;
+        width: 120px;
+        height: 54px;
+        left: 0px;
+        top: 0px;
+        background-color: rgba(0, 0, 0, 1);
+        border-radius: 5px 5px 5px 5px;
+        border: 0;
+        overflow: hidden;
+    }
+    #order-btn {
+        position: absolute;
+        left: 112.58px;
+        top: 236px;
+        overflow: visible;
+        width: 41px;
+        white-space: nowrap;
+        line-height: 30px;
+        margin-top: -8.5px;
+        text-align: center;
+        font-family: Helvetica;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 13px;
+        color: rgba(77, 77, 77, 1);
+    }
+    #propuct-detail-price {
+        position: absolute;
+        left: 0px;
+        top: 63px;
+        overflow: visible;
+        width: 98px;
+        white-space: nowrap;
+        text-align: left;
+        font-family: Helvetica;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 20px;
+        color: rgba(77, 77, 77, 1);
+    }
+    #product-description {
+        position: absolute;
+        left: 0px;
+        top: 97px;
+        overflow: hidden;
+        width: 313px;
+        height: 55px;
+        line-height: 20px;
+        margin-top: -3.5px;
+        text-align: left;
+        font-family: Helvetica;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 13px;
+        color: rgba(77, 77, 77, 1);
+    }
+    #product-general-description {
+        position: absolute;
+        left: 0px;
+        top: 0px;
+        overflow: hidden;
+        width: 304px;
+        height: 47px;
+        line-height: 24px;
+        margin-top: -4px;
+        text-align: left;
+        font-family: Helvetica;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        color: rgba(77, 77, 77, 1);
+    }
+    .cart-icon {
+        overflow: visible;
+        position: absolute;
+        width: 22.839px;
+        height: 20.48px;
+        left: 216.58px;
+        top: 234.34px;
+        transform: matrix(1, 0, 0, 1, 0, 0);
+    }
+    #product-offer {
+        position: absolute;
+        left: 52px;
+        top: 182px;
+        overflow: visible;
+        width: 209px;
+        white-space: nowrap;
+        line-height: 30px;
+        margin-top: -8.5px;
+        text-align: center;
+        font-family: Helvetica;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 13px;
+        color: rgba(77, 77, 77, 1);
+    }
+    .Fb-icon {
+        overflow: visible;
+        position: absolute;
+        width: 9.151px;
+        height: 17.304px;
+        left: 295.298px;
+        top: 805.5px;
+        transform: matrix(1, 0, 0, 1, 0, 0);
+    }
+    .Twiter-icon {
+        overflow: visible;
+        position: absolute;
+        width: 21.782px;
+        height: 17.514px;
+        left: 289.906px;
+        top: 888.5px;
+        transform: matrix(1, 0, 0, 1, 0, 0);
+    }
+    .footer-line {
+        overflow: visible;
+        position: absolute;
+        width: 312px;
+        height: 1px;
+        left: 24.5px;
+        top: 779.125px;
+        transform: matrix(1, 0, 0, 1, 0, 0);
+    }
+}
